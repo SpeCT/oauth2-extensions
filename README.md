@@ -36,7 +36,7 @@ Here's a table that will come in handy:
   </tr>
   <tr>
     <td>facebook</td>
-    <td>http://www.facebook.com/robots.txt</td>
+    <td>https://www.facebook.com/connect/login_success.html</td>
     <td>https://graph.facebook.com/oauth/access_token</td>
   </tr>
   <tr>
